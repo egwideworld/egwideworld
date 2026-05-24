@@ -1,4 +1,6 @@
-## Olá! 👋
+![Banner Pessoal](https://raw.githubusercontent.com/egwideworld/egwideworld/refs/heads/main/assets/personal_banner.png)
+
+## Olá! Seja Bem-Vindo(a) ao meu Perfil!👋
 
 **egwideworld/egwideworld** é um repositório ✨ _especial_ ✨ por que o `README.md` (esse arquivo) aparece no meu Perfil do GitHub.
 
