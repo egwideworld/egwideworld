@@ -2,8 +2,6 @@
 
 ## Olá! Seja Bem-Vindo(a) ao meu Perfil!👋
 
-**egwideworld/egwideworld** é um repositório ✨ _especial_ ✨ por que o `README.md` (esse arquivo) aparece no meu Perfil do GitHub.
-
 Aqui vai um pequeno resumo sobre mim:
 
 - 🌱 Atualmente estou aprendendo Desenvolvimento Web e Segurança Digital.
