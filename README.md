@@ -12,4 +12,4 @@ Sou um Desenvolvedor Web em transição do setor de T.I. / Outsourcing para a en
 - Frameworks & Libs: ReactJS, Next.js, TailwindCSS
 - Back-end & Ferramentas: Node.js, Git, GitHub
 
-## 📬 Como me encontrar: (Linkedin)[https://www.linkedin.com/in/egwideworld/]
+## 📬 Como me encontrar: [Linkedin](https://www.linkedin.com/in/egwideworld/)
