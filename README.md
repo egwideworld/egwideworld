@@ -14,4 +14,4 @@ Sou um Desenvolvedor Web Full-Stack em transição do setor de T.I. / Outsourcin
 - Back-end & Dados: Node.js, SQL
 - DevOps & Infraestrutura: Linux, Docker, Redes, Git, GitHub
 
-## 📬 Como me encontrar: [Seu Link do LinkedIn]
+## 📬 Como me encontrar: [Linkedin](https://www.linkedin.com/in/egwideworld/)
