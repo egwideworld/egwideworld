@@ -1,15 +1,17 @@
 ![Banner Pessoal](https://raw.githubusercontent.com/egwideworld/egwideworld/refs/heads/main/assets/personal_banner.png)
 
 # Olá! Eu sou o Eduardo Guilherme 👋
-Sou um Desenvolvedor Web em transição do setor de T.I. / Outsourcing para a engenharia de software. Meu foco é construir aplicações modernas, escaláveis e seguras.
 
-- 🚀 O que estou construindo: Atualmente focado no desenvolvimento do nexoora.com.br.
-- 🧠 O que estou aprendendo: Aprofundando em TypeScript, Next.js e práticas avançadas de Cibersegurança aplicadas ao desenvolvimento web.
+Sou um Desenvolvedor Web Full-Stack em transição do setor de T.I. / Outsourcing para a engenharia de software. Meu foco é construir aplicações modernas, escaláveis e seguras, entendendo o sistema de ponta a ponta.
 
-# 🛠️ Minha Stack Principal:
+## 🚀 O que estou construindo: Atualmente focado no desenvolvimento do nexoora.com.br.
 
-- Core: JavaScript (ES6+), TypeScript, HTML5, CSS3
-- Frameworks & Libs: ReactJS, Next.js, TailwindCSS
-- Back-end & Ferramentas: Node.js, Git, GitHub
+## 🧠 O que estou aprendendo: Expandindo meus conhecimentos práticos em arquitetura Full-Stack e DevOps. Meus estudos diários incluem Linux, Docker, Bancos de Dados (SQL), fundamentos de Redes de Computadores e aprimoramento contínuo do Inglês, sempre alinhados a práticas avançadas de Cibersegurança.
 
-## 📬 Como me encontrar: [Linkedin](https://www.linkedin.com/in/egwideworld/)
+# 🛠️ Minha Stack & Ferramentas:
+
+- Front-end: JavaScript (ES6+), TypeScript, HTML5, CSS3, ReactJS, Next.js, TailwindCSS
+- Back-end & Dados: Node.js, SQL
+- DevOps & Infraestrutura: Linux, Docker, Redes, Git, GitHub
+
+## 📬 Como me encontrar: [Seu Link do LinkedIn]
