@@ -12,8 +12,6 @@ O que mais me atrai na área não é apenas a parte técnica, mas o desafio inve
 
 Minha rotina hoje se resume a construir uma base sólida e testar as coisas na prática. Divido meu tempo entre as disciplinas da graduação e o aprendizado autodidata, passando boas horas em laboratórios e estudos independentes. Sei que a tecnologia muda rápido, então minha prioridade é aprender a pensar o problema, e não apenas decorar ferramentas.
 
----
-
 ## O que estou construindo: 
 
 Atualmente focado no desenvolvimento do [Nexoora](https://nexoora.com.br), buscando alinhar código limpo com conceitos de arquitetura segura e escalável.
