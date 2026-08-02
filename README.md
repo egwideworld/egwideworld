@@ -20,9 +20,7 @@ Atualmente focado no desenvolvimento do [Nexoora](https://nexoora.com.br), busca
 
 Construindo uma fundação técnica focada na interseção entre infraestrutura, desenvolvimento e segurança. Meus estudos diários incluem Linux, Docker, Bancos de Dados (SQL) e fundamentos de Redes de Computadores, sempre alinhados a práticas e estratégias avançadas de Cibersegurança.
 
-## Como me encontrar: 
-
-[LinkedIn](https://www.linkedin.com/in/egwideworld/)
+## Como me encontrar: [LinkedIn](https://www.linkedin.com/in/egwideworld/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
