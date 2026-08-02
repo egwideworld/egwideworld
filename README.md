@@ -6,8 +6,6 @@
 
 # Olá! Eu sou o Eduardo Guilherme
 
-### Cibersegurança | Desenvolvimento | Proteção de Dados | Resolução de Problemas Complexos
-
 Sempre fui o tipo de pessoa que prefere entender como as coisas funcionam por dentro em vez de apenas usá-las. Foi exatamente essa vontade de investigar além da superfície que me aproximou da tecnologia e, inevitavelmente, da cibersegurança.
 
 O que mais me atrai na área não é apenas a parte técnica, mas o desafio investigativo. Vejo a segurança da informação como um grande quebra-cabeça de lógica. Gosto da sensação de olhar para uma estrutura, mapear como suas partes conversam e descobrir formas criativas de fechar as brechas, garantindo que o ambiente digital seja seguro para quem confia nele.
