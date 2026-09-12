@@ -5,9 +5,7 @@
 </p>
 
 ---
-<p align="center">
-# Sobre Mim
-</p>
+<h1 align="center"> Sobre Mim </h1>
 
 Minha jornada na tecnologia sempre foi guiada pela vontade de construir soluções que funcionam na prática. Já atuei diretamente no desenvolvimento web projetando sistemas corporativos, mas meu repertório técnico vai além do código: trago na bagagem cursos de Games e Design que me ensinaram a unir a lógica rígida da programação com a flexibilidade da criação visual e de usabilidade.
 
